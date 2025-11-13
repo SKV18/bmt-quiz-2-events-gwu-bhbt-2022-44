@@ -20,7 +20,7 @@ body {
     background-color: var(--secondary-color);
 }
 
-/* --- Header & Footer --- */
+
 .site-header {
     background-color: var(--primary-color);
     color: white;
